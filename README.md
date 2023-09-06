@@ -12,11 +12,11 @@ Example 1
 
 Example 2
 
-HTML uses < B > and < /B > as delimiters. For each open delimiter < B >, there must be a matching close delimiter < /B >
+HTML uses < b > and < /b > as delimiters. For each open delimiter < b >, there must be a matching close delimiter < /b >
 
-<B> Make this text bold </B>		is valid HTML
+< b > Make this text bold < /b >		is valid HTML
 
-<B> Make this text bold </UB>	is not valid HTML because there is one open delimiter and no matching close delimiter.
+< b > Make this text bold < /ub >	is not valid HTML because there is one open delimiter and no matching close delimiter.
 
 In this tutorial, you will write two methods in the following Delimiters class.
 
